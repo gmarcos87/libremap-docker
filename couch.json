@@ -1,0 +1,7 @@
+{
+  "couches": {
+    "docker": {
+      "database": "http://localhost:5984/libremap"
+    }
+  }
+}
